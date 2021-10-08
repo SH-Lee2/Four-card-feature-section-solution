@@ -108,7 +108,7 @@ body {
     }
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 1025px) {
     body {
         padding: 5%;
     }
